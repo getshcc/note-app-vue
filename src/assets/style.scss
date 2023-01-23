@@ -1,0 +1,19 @@
+/* width */
+.note-text::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+.note-text::-webkit-scrollbar-track {
+    background: #00000033;
+}
+
+/* Handle */
+.note-text::-webkit-scrollbar-thumb {
+    background: #00000030;
+}
+
+/* Handle on hover */
+.note-text::-webkit-scrollbar-thumb:hover {
+    background: #00000050;
+}
